@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Group32_Homework03</string>
+    <string name="tvwelcome">Welcome to</string>
+    <string name="tvwelcomeapp">Welcome to \n  Trivia App</string>
+    <string name="tvloading">Loading Trivia</string>
+    <string name="btnexit">Exit</string>
+    <string name="btnstart">Start Trivia</string>
+    <string name="tvtimeleft">Time Left:</string>
+    <string name="tvquestionno" translatable="false">Q</string>
+    <string name="tvno" />
+    <string name="tvquestion">QuestionData</string>
+    <string name="quit">Quit</string>
+    <string name="next">Next</string>
+    <string name="tvTime" />
+    <string name="tvload">Loading Image</string>
+    <string name="triviastats">Trivia Stats</string>
+    <string name="correctAnswers">Correct Answers</string>
+    <string name="percentage" />
+    <string name="tryagain">Try again and see if you can get all the correct answers!</string>
+    <string name="btnquit">Quit</string>
+    <string name="btntryagain">Try Again</string>
+</resources>
